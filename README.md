@@ -12,4 +12,4 @@ Technical skills:
 Multithreading
 Object-oriented programming
 Game development
-Overall, a snake game using multithreading is a good project for beginner-intermediate programmers to learn about multithreading and game development.
+Author:Raagavi DuraiRaj.
